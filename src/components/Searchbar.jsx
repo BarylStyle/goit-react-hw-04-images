@@ -21,7 +21,7 @@ class Searchbar extends Component {
             name="query"
             autoComplete="off"
             autoFocus
-            placeholder="Search images and photos"
+            placeholder="Search images and photos."
           />
         </form>
       </header>
